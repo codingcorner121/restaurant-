@@ -6,6 +6,8 @@ import { assets } from '../../assets/assets';
 function Header(){
     return(
         <div className="header">
+
+            <img src={assets.header_img} alt="" />
             
             
             <div className='header-content'>
